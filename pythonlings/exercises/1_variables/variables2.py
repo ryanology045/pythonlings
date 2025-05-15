@@ -1,8 +1,8 @@
-# I AM NOT DONE
 
-x = 1.0
-y = 1
-z = "Hello"
+
+x = 1
+y = 1.0
+z = b"Hello"
 
 # DON'T EDIT THE TESTS
 assert isinstance(x, int)

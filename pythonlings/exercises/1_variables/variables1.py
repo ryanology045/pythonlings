@@ -1,4 +1,4 @@
-# I AM NOT DONE
+
 
 a_integer = 1
 a_float = 0.1
@@ -11,5 +11,5 @@ assert isinstance(a_integer, int)
 assert isinstance(a_float, float)
 assert isinstance(a_string, str)
 assert isinstance(a_bytes, bytes)
-assert isinstance(a_boolean, True)
+assert isinstance(a_boolean, bool)
 assert isinstance(a_tuple, tuple)
