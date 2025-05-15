@@ -1,3 +1,6 @@
+# Why so short though... RIP
+
+
 <img src="./logo/logo.png" width="200">
 
 
